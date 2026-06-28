@@ -1,0 +1,6 @@
+{
+  "name": "Maintenance Management System",
+  "description": "A full-stack incident ticketing and equipment inventory tracking system, powered by a Spring Boot backend API with role-based JWT security and real-time STOMP alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+ma\fstg\security\spring_jwt_api\jwt\JwtAuthorizationFilter.class
+ma\fstg\security\spring_jwt_api\entities\Role.class
+ma\fstg\security\spring_jwt_api\repositories\UserRepository.class
+ma\fstg\security\spring_jwt_api\jwt\JwtUtil.class
+ma\fstg\security\spring_jwt_api\web\AuthController.class
+ma\fstg\security\spring_jwt_api\services\TicketService$1.class
+ma\fstg\security\spring_jwt_api\dto\UserProfileDto.class
+ma\fstg\security\spring_jwt_api\services\CustomUserDetailsService.class
+ma\fstg\security\spring_jwt_api\services\UserService.class
+ma\fstg\security\spring_jwt_api\config\SecurityConfig.class
+ma\fstg\security\spring_jwt_api\web\UserController.class
+ma\fstg\security\spring_jwt_api\repositories\RoleRepository.class
+ma\fstg\security\spring_jwt_api\SpringJwtApiApplication.class
+ma\fstg\security\spring_jwt_api\entities\User.class
+ma\fstg\security\spring_jwt_api\web\TestController.class
